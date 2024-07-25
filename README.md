@@ -21,7 +21,7 @@ Understanding customer behavior is crucial for businesses to tailor their market
 * **K-means Clustering**: Identifies distinct groups by minimizing the variance within each cluster.
 * **Hierarchical Clustering**: Builds a hierarchy of clusters using a dendrogram.
   
-<h3>3)Evaluation:</h3>
+<h3>3) Evaluation:</h3>
 
 * **Silhouette Score**: Evaluates the cohesion and separation of clusters.
 * **Elbow Method**: Determines the optimal number of clusters by plotting within-cluster sum of squares.
